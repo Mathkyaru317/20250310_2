@@ -1,0 +1,5 @@
+question,option1,option2,option3,option4,correct,type
+以下哪個是 JavaScript 的變數宣告方式？,var,let,const,以上皆是,以上皆是,choice
+以下哪個是 JavaScript 的函數宣告方式？,function,def,sub,func,function,choice
+JavaScript 是一種什麼類型的語言？,靜態型別,動態型別,編譯型,機器語言,動態型別,choice
+JavaScript 的全名是什麼？,,,,,ECMAScript,fill
